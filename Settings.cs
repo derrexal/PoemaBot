@@ -3,15 +3,15 @@
     internal class Settings
     {   
         //NOTE: Долой с глаз от OpenSource
-        internal const string TOKEN = "6187394052:AAGlLs2QqFvIWAT_9IUJyBfjxrMhB4ZCJYY";
+        internal const string TOKEN = "token";
 
-        internal const string ADDRESS = "37.220.83.145";
+        internal const string ADDRESS = "11.111.11.111";
         internal const uint PORT = 3306;
         
-        internal const string DB_USERNAME = "monty";
-        internal const string DB_PASSWORD = "some_pass";
+        internal const string DB_USERNAME = "user";
+        internal const string DB_PASSWORD = "pass";
         internal const string SSH_USERNAME = "admin";
-        internal const string SSH_PASSWORD= "s7v8r0";
+        internal const string SSH_PASSWORD= "password";
 
         internal const string CATEGORY_TABLE_NAME = "newdb.category";
         internal const string POEMAS_CATEGORY_TABLE_NAME = "newdb.poemas_category";
